@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Alejandro Ruiz</h1>
+<h1 align="center">Hola, soy Alejandro Ruiz 🦦👌🏽</h1>
 <h3 align="center">Desarrollador Backend Junior en Java y Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrors10&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrors10" /> </p>
